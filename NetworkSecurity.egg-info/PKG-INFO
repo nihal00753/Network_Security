@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: NetworkSecurity
+Version: 0.0.1
+Author: Nihal
+Author-email: main.nihal0753@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pymongo
+Requires-Dist: certifi
+Requires-Dist: pymongo[srv]
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
