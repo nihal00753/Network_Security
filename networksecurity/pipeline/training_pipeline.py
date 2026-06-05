@@ -88,23 +88,6 @@ class TrainingPipeline:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     def run_pipeline(self):
         try:
             data_ingestion_artifact=self.start_data_ingestion()
